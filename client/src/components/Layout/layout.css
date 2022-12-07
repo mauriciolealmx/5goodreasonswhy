@@ -1,0 +1,46 @@
+.container {
+  max-width: 36rem;
+  padding: 0 0;
+  margin: 0 auto 3rem;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.headerBanner {
+  display: grid;
+  align-items: center;
+  background-color: #366aa0;
+  color: #fff;
+  font-weight: bold;
+  height: 64px;
+  padding: 0 18px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.headerBanner a {
+  color: #fff;
+}
+
+.headerImage {
+  width: 5rem;
+  height: 5rem;
+}
+
+.headerHomeImage {
+  width: 6rem;
+  height: 6rem;
+}
+
+.main {
+  padding: 0 18px;
+}
+
+.backToHome {
+  margin: 2rem 0 0;
+  padding: 0 18px;
+}
