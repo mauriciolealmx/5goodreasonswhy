@@ -19,6 +19,7 @@
     "vitest": "^0.25.5"
   },
   "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.225.0",
     "@serverless-stack/node": "^1.18.4"
   },
   "workspaces": [
